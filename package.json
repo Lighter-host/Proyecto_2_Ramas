@@ -1,0 +1,23 @@
+{
+  "name": "lawliet",
+  "version": "1.0.0",
+  "description": "Proyecto git y npm",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "js",
+    "cscj",
+    "npm",
+    "git"
+  ],
+  "author": "Lighter",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.24.0",
+    "prettier": "^2.2.1"
+  }
+}
